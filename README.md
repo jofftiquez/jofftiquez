@@ -1,4 +1,4 @@
-### Hi there I'm Joff, I like cats :cat:
+### Hi there I'm Joff, I love cats :cat:
 
 Creator of [Vue Stripe](https://vuestripe.com).
 
