@@ -1,6 +1,6 @@
-### Hi there I'm Joff, I love cats :cat:
+<img height="35" src="./stripe_partner_badge_community_blurple.png"/>
 
-<img height="40" src="./stripe_partner_badge_community_blurple.png"/>
+### Hi there I'm Joff, I love cats :cat:
 
 Creator of [Vue Stripe](https://vuestripe.com).
 
