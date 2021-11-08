@@ -11,4 +11,6 @@
 
 Creator of [Vue Stripe](https://vuestripe.com).
 
+One of my goals for 2022 as a developer is to become a **GitHub Star**, if you like my works please [nominate](https://stars.github.com/nominate/) me. Thank you <3
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
