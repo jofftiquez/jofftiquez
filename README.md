@@ -6,23 +6,23 @@ Most of my time are spent in mastering frontend development using Angular.js, An
 
 On my free time, I do physical activities like [cycling, hiking, and rock climing](https://www.strava.com/athletes/62295013), or I either spent my time contributing to the open-source community. Being a big fan of Vue.js, my project are mostly Vue.js or JavaScript based. Here are some of them:
 
-#### 💳 [Vue Stripe](https://vuestripe.com)
+### 💳 [Vue Stripe](https://vuestripe.com)
 
 A collection of Vue.js components and plugins for [Stripe](https://stripe.com) Payment, Elements, and Checkout. Vue Stripe is a [verified Vue.js partner of Stripe](https://stripe.com/partners/vue-stripe).
 
-#### 💵 [Node PayMongo](https://jofftiquez.gitbook.io/paymongo/)
+### 💵 [Node PayMongo](https://jofftiquez.gitbook.io/paymongo/)
 
 Node.js wrapper for [PayMongo](https://www.paymongo.com/) API.
 
-#### 🌊 [Vue Morphling](https://github.com/jofftiquez/vue-morphling)
+### 🌊 [Vue Morphling](https://github.com/jofftiquez/vue-morphling)
 
 A collection of Vue.js filters and directives.
 
-#### 🖨️ [Vue HTML to Paper](https://mycurelabs.github.io/vue-html-to-paper/)
+### 🖨️ [Vue HTML to Paper](https://mycurelabs.github.io/vue-html-to-paper/)
 
 Printing utility for Vue.js.
 
-#### 📹 [Vue Jitsi Meet](https://github.com/mycurelabs/vue-jitsi-meet)
+### 📹 [Vue Jitsi Meet](https://github.com/mycurelabs/vue-jitsi-meet)
 
 Vue wrapper for Jitsi Meet JavaScript SDK.
 
