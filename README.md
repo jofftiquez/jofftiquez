@@ -4,7 +4,7 @@
 
 Most of my time is spent in mastering frontend development using Angular.js, Angular, and Vue.js. Currently, I am spending some time to learn Svelte.
 
-In my free time, I do physical activities like [cycling, hiking, and rock climing](https://www.strava.com/athletes/62295013), or I either spend my time contributing to the open-source community. Being a big fan of Vue.js, my projects are mostly Vue.js or JavaScript based. Here are some of them:
+In my free time, I do physical activities like [cycling, hiking, and rock climing](https://www.strava.com/athletes/62295013), or I either spend my time contributing to the open-source community. Being a big fan of Vue.js, my projects are mostly based on Vue.js or JavaScript. Here are some of them:
 
 ### 💳 [Vue Stripe](https://vuestripe.com)
 
