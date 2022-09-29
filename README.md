@@ -27,10 +27,13 @@ Printing utility for Vue.js.
 Vue wrapper for Jitsi Meet JavaScript SDK.
 
 ### Affiliations
+- [Parmazip](https://www.parmazip.com/) - CTO
 - [MYCURE Inc.](https://mycure.md) - Tech Lead
 - [Stripe](https://stripe.com) - Vue.js Community Expert
 - [Vue.js Philippines](https://www.facebook.com/groups/707288829435351) - Core Member
 - [Mighty Minds](https://mightyminds.org) - Tech Lead Volunteer
+
+One of my goals as a developer is to become a **GitHub Star**, if you like my works please [nominate](https://stars.github.com/nominate/) me. Thank you <3
 
 ---------------------------------------------------------
 
@@ -43,7 +46,5 @@ Vue wrapper for Jitsi Meet JavaScript SDK.
     <img src="https://img.shields.io/twitter/follow/jrtiquez?logo=twitter&style=for-the-badge" alt="jrtiquez" />
   </a>
 </p>
-
-One of my goals for 2022 as a developer is to become a **GitHub Star**, if you like my works please [nominate](https://stars.github.com/nominate/) me. Thank you <3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
