@@ -35,6 +35,10 @@ Vue wrapper for Jitsi Meet JavaScript SDK.
 
 One of my goals as a developer is to become a **GitHub Star**, if you like my works please [nominate](https://stars.github.com/nominate/) me. Thank you <3
 
+### Let's talk!
+
+https://calendly.com/jofftiquez
+
 ---------------------------------------------------------
 
 <img height="35" src="./stripe_partner_badge_community_blurple.png"/>
