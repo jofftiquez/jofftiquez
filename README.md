@@ -10,7 +10,7 @@ In my free time, I do physical activities like [cycling, hiking, and rock climbi
 
 A collection of Vue.js components and plugins for [Stripe](https://stripe.com) Payment, Elements, and Checkout. Vue Stripe is a [verified Vue.js partner of Stripe](https://stripe.com/partners/vue-stripe).
 
-### 💵 [Node PayMongo](https://jofftiquez.gitbook.io/paymongo/)
+### 💵 [Node PayMongo](https://paymongo.ossph.org/)
 
 Node.js wrapper for [PayMongo](https://www.paymongo.com/) API.
 
