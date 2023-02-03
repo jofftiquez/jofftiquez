@@ -51,4 +51,6 @@ https://calendly.com/jofftiquez
   </a>
 </p>
 
+[![jofftiquez's Stack Overflow achievements](https://stats.quine.sh/jofftiquez/stack-overflow)](https://quine.sh)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
