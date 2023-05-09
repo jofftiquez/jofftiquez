@@ -1,8 +1,8 @@
 # 👋 Hi! 
 
-**Joff** here! I am a web developer from Manila 🇵🇭. For the past 9 years I am mostly focusing on web development using JavaScript.
+**Joff** here! I am a web developer from Manila 🇵🇭. For the past decade I am mostly focusing on web development using JavaScript.
 
-Most of my time is spent in mastering frontend development using Angular.js, Angular, and Vue.js. Currently, I am spending some time learning Svelte.
+Most of my time is spent in mastering frontend development using JavaScript, and Vue.js. Currently, I am spending some time implementing E2E using Cypress.
 
 In my free time, I do physical activities like [cycling, hiking, and rock climbing](https://www.strava.com/athletes/62295013), or I either spend my time contributing to the open-source community. Being a big fan of Vue.js, my projects are mostly based on Vue.js or JavaScript. Here are some of them:
 
