@@ -31,8 +31,7 @@ Printing utility for Vue.js.
 Vue wrapper for Jitsi Meet JavaScript SDK.
 
 ### Affiliations
-- [Parmazip](https://www.parmazip.com/) - CTO
-- [MYCURE Inc.](https://mycure.md) - Tech Lead
+- [MYCURE Inc.](https://mycure.md) - VP Of Engineering
 - [Open Source Software PH](https://ossph.org) - Founder
 - [Stripe](https://stripe.com) - Vue.js Community Expert
 - [Vue.js Philippines](https://www.facebook.com/groups/707288829435351) - Core Member
